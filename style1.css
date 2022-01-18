@@ -61,6 +61,12 @@ a:hover {
   flex-wrap: wrap;
   justify-content: space-around;
 }
+.row3 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
 .col-2 {
   flex-basis: 50%;
   min-width: 300px;
