@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: 0;
 }
+.h-primary center {
+  margin: 0;
+}
 /* body {
   font-family: "Poppins", sans-serif;
 } */
