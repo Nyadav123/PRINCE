@@ -12,7 +12,8 @@
   padding: 20px;
 }
 .logo img {
-  border-radius: 3px;
+  border-radius: 10px;
+  width:400px;
 }
 a {
   text-decoration: none;
