@@ -247,6 +247,8 @@ a:hover {
   align-items: center;
   padding-bottom: 34px;
 }
+.item{
+  margin-inline-start: 80px;}
 
 #contact-box input,
 #contact-box textarea {
@@ -263,6 +265,7 @@ footer {
   background: black;
   color: white;
   padding: 9px 20px;
+  margin-inline-start: 60px;
 }
 
 .h-primary {
@@ -292,4 +295,5 @@ footer {
 }
 .img img {
   border-radius: 20px;
+  margin-inline-start: 70px;
 }
