@@ -220,7 +220,7 @@ a:hover {
 }
 .item {
   margin: 20px;
-  margin-inline-start: 80px;
+  margin-inline-start: 100px;
 }
 .about {
   margin: 70px;
@@ -266,7 +266,7 @@ footer {
   background: black;
   color: white;
   padding: 9px 20px;
-  margin-inline-start: 60px;
+  margin-inline-start: 100px;
 }
 
 .h-primary {
@@ -296,5 +296,5 @@ footer {
 }
 .img img {
   border-radius: 20px;
-  margin-inline-start: 70px;
+  margin-inline-start: 100px;
 }
