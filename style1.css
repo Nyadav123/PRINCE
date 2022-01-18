@@ -220,8 +220,8 @@ a:hover {
   /* opacity: 4px grey; */
 }
 .item {
-  margin: 20px;
-  margin-inline-start: 10px;
+  margin: 10px;
+  
   width:100%;
 }
 .about {
@@ -269,7 +269,6 @@ footer {
   background: black;
   color: white;
   padding: 9px 20px;
-  margin-inline-start: 10px;
   border radius:4px;
   width:90%;
 }
@@ -289,7 +288,7 @@ footer {
   padding: 6px 20px;
   border: 2px solid white;
   background-color: black;
-  color: white
+  color: white;
   margin: 17px;
   font-size: 1.5rem;
   border-radius: 10px;
@@ -302,5 +301,5 @@ footer {
 .img img {
   border-radius: 20px;
   margin-inline-start: 60px;
-  width:70%;
+  width:80%;
 }
