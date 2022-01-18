@@ -232,6 +232,7 @@ a:hover {
 }
 .h-primary center {
   margin: 0;
+
 }
 #contact {
   position: relative;
@@ -268,6 +269,7 @@ footer {
   color: white;
   padding: 9px 20px;
   margin-inline-start: 60px;
+  border radius:4px;
 }
 
 .h-primary {
@@ -297,5 +299,6 @@ footer {
 }
 .img img {
   border-radius: 20px;
-  margin-inline-start: 80px;
+  margin-inline-start: 60px;
+  width:70%;
 }
