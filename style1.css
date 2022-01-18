@@ -222,6 +222,7 @@ a:hover {
 .item {
   margin: 20px;
   margin-inline-start: 80px;
+  width:80%;
 }
 .about {
   margin: 70px;
@@ -270,6 +271,7 @@ footer {
   padding: 9px 20px;
   margin-inline-start: 60px;
   border radius:4px;
+  width:90;
 }
 
 .h-primary {
