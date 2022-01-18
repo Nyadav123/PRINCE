@@ -248,6 +248,7 @@ a:hover {
   padding-bottom: 34px;
 }
 .item{
+   margin: 20px;
   margin-inline-start: 80px;}
 
 #contact-box input,
