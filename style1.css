@@ -13,7 +13,8 @@
 }
 .logo img {
   border-radius: 10px;
-  width: 400px;
+  width: 200px;
+  height:200px;
 }
 a {
   text-decoration: none;
@@ -220,7 +221,7 @@ a:hover {
 }
 .item {
   margin: 20px;
-  margin-inline-start: 100px;
+  margin-inline-start: 80px;
 }
 .about {
   margin: 70px;
@@ -266,7 +267,7 @@ footer {
   background: black;
   color: white;
   padding: 9px 20px;
-  margin-inline-start: 100px;
+  margin-inline-start: 80px;
 }
 
 .h-primary {
@@ -296,5 +297,5 @@ footer {
 }
 .img img {
   border-radius: 20px;
-  margin-inline-start: 100px;
+  margin-inline-start: 80px;
 }
