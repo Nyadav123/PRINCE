@@ -3,9 +3,6 @@
   padding: 0;
   box-sizing: 0;
 }
-.h-primary center {
-  margin: 0;
-}
 /* body {
   font-family: "Poppins", sans-serif;
 } */
@@ -16,9 +13,7 @@
 }
 .logo img {
   border-radius: 10px;
-  width:200px;
-  heigth:200px;
-  
+  width: 400px;
 }
 a {
   text-decoration: none;
@@ -223,7 +218,10 @@ a:hover {
   margin: 4px 4px;
   /* opacity: 4px grey; */
 }
-
+.item {
+  margin: 20px;
+  margin-inline-start: 80px;
+}
 .about {
   margin: 70px;
 }
@@ -231,7 +229,9 @@ a:hover {
   font-family: "Times New Roman", Times, serif;
   font-style: inherit;
 }
-
+.h-primary center {
+  margin: 0;
+}
 #contact {
   position: relative;
 }
@@ -250,9 +250,6 @@ a:hover {
   align-items: center;
   padding-bottom: 34px;
 }
-.item{
-   margin: 20px;
-  margin-inline-start: 80px;}
 
 #contact-box input,
 #contact-box textarea {
