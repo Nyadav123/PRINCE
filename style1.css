@@ -128,10 +128,7 @@ a:hover {
   border: 2px solid black;
   margin: 4px 4px;
 }
-.col-3 img:hover {
-  /* vertical-align: 110%; */
-  inline-size: 250px;
-}
+
 
 .col-3 a:hover {
   background-color: rgb(212, 43, 31);
@@ -219,12 +216,9 @@ a:hover {
   border-radius: 20px;
   border: 2px solid black;
   /* opacity: 4px grey; */
+    margin: 4px 4px;
 }
-.col-4 img:hover {
-  /* vertical-align: 110%; */
-  inline-size: 240px;
-  height: 210px;
-}
+
 .about {
   margin: 70px;
 }
