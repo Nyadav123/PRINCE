@@ -225,7 +225,7 @@ a:hover {
   width:100%;
 }
 .about {
-  margin: 70px;
+  margin: 10px;
 }
 .about a {
   font-family: "Times New Roman", Times, serif;
@@ -266,6 +266,7 @@ footer {
 }
 .img img {
   border-radius: 20px;
- margin-inline-start:50px;
-  width:80%;
+ margin: 10px;
+  
+  width:90%;
 }
