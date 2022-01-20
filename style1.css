@@ -226,6 +226,7 @@ a:hover {
 }
 .about {
   margin: 10px;
+padding-top: 20px;
 }
 .about a {
   font-family: "Times New Roman", Times, serif;
