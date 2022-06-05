@@ -1,0 +1,30 @@
+.p {
+  width: 29%;
+  height: 40vh;
+  margin: 20px 10px;
+  
+  display: flex;
+  border: 2px solid rgb(243, 242, 242);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.p-img {
+  padding: 1%;
+  width: 100% !important ;
+  height: 100%;
+  color: black;
+  transition: all 10s ease;
+  border-radius:15px !important;
+}
+
+.p:hover .p-img {
+  transform: translateY(-100%);
+}
+
+@media screen and (max-width: 480px) {
+  .p {
+    width: 40%;
+    height: 20vh;
+  }
+}
